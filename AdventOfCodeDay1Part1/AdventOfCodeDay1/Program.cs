@@ -1,4 +1,4 @@
-﻿namespace AdventOfCodeDay1Part1
+﻿namespace AdventOfCodeDay1
 {
     internal class Program
     {
